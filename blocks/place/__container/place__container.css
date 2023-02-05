@@ -1,0 +1,6 @@
+.place__container{
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 0 0 7px 7px;
+    width: 100%;
+}

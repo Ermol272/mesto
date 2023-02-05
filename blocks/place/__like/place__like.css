@@ -1,0 +1,16 @@
+.place__like{
+    width: 22px;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+    background-image:url(/images/like.png);
+    object-fit: cover;
+    border: none;
+    height: 19px;
+}
+.place__like:hover{
+    opacity: 0.5;
+}
+.place__like:active{
+    background-image:url(/images/blacklike.png);
+    opacity: 1;
+}
