@@ -1,5 +1,5 @@
 .profile__wrapper{
-    display: inline-flex;
+    display: flex;
 }
 @media screen and (max-width: 710px){
     .profile__wrapper{ 
