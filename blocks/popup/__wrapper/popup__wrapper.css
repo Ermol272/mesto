@@ -1,0 +1,17 @@
+.popup__wrapper{
+    position: relative;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px;
+    max-width: 430px;
+    width: 100%;
+    color: black;
+    padding: 34px 36px 37px 36px;
+    box-sizing: border-box;
+}
+    @media screen and (max-width: 550px){
+        .popup__wrapper{
+            padding: 25px 22px;
+            max-width: 282px;
+        }
+}

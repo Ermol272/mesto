@@ -1,14 +1,13 @@
 .profile__wrapper{
     display: flex;
+    width: 100%;
 }
 @media screen and (max-width: 710px){
     .profile__wrapper{ 
-        display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         text-align: center;
         margin-bottom: 36px;
-        width: 100%;
     }
 }

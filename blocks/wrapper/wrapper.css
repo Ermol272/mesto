@@ -3,6 +3,7 @@
     max-width: 880px;
     margin:0 auto;
     padding:  45px 0 60px 0;
+    box-sizing: border-box;
 }
 @media screen and (max-width: 930px){
     .wrapper{
@@ -12,6 +13,6 @@
 }
 @media screen and (max-width: 560px){
     .wrapper{
-        padding: 28px 19px 36px 19px;
+        padding: 0;
     }
 }

@@ -1,0 +1,11 @@
+.popup__input_text_user-work{
+    margin-bottom: 48px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+@media screen and (max-width: 550px){
+    .popup__input_text_user-work{
+        margin-bottom: 45px;
+    }
+}
