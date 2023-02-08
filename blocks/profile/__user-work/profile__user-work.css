@@ -11,7 +11,7 @@
     max-width: 294px;
 }
 @media screen and (max-width: 560px){
-    .profile__work{
+    .profile__user-work{
         font-size: 14px;
         line-height: 17px;
         max-width: 282px;

@@ -6,6 +6,7 @@
     object-fit: cover;
     border: none;
     height: 19px;
+    background-color: transparent;
 }
 .place__like:hover{
     opacity: 0.5;
